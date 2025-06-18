@@ -32,7 +32,7 @@ Développé par [Powehi](https://powehi.eu), une agence web indépendante et ét
 
 
 
-## 🧑‍💻 Un projet Open Source : (https://github.com/powehi-fr/llm-visibility-score)
+## 🧑‍💻 Lien du Projet : [https://github.com/powehi-fr/llm-visibility-score](https://github.com/powehi-fr/llm-visibility-score)
 
 
 
