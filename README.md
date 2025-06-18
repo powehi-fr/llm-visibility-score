@@ -30,6 +30,14 @@ Développé par [Powehi](https://powehi.eu), une agence web indépendante et ét
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 
+
+
+## 🧑‍💻 Un projet Open Source : (https://github.com/powehi-fr/llm-visibility-score)
+
+
+
+
+
 - `#Powehi`
 - `#AgenceÉthique`
 - `#WebSouverain`
