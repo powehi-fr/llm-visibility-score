@@ -1,0 +1,45 @@
+{
+  "structure_semantique": {
+    "title_balise": "Balise <title> présente et contextualisée (métier + localisation)",
+    "meta_description": "Balise meta description claire et informative",
+    "structure_hn": "Présence d’un H1 unique et hiérarchisation logique des Hn",
+    "schema_org": "Balises schema.org pertinentes (LocalBusiness, Organization…)",
+    "open_graph": "Présence des balises Open Graph (OG:title, OG:description, etc.)",
+    "json_ld": "Données structurées JSON-LD enrichies (adresse, fondateur, etc.)",
+    "sitemap": "Fichier sitemap.xml présent et accessible",
+    "robots_txt": "Fichier robots.txt sans blocage injustifié",
+    "canonical": "Balise canonical correcte pour éviter les duplications"
+  },
+  "indexation_crawl": {
+    "page_indexee_google": "Page d’accueil indexée par Google (site:domain)",
+    "presence_common_crawl": "Présence dans Common Crawl",
+    "backlinks_detectes": "Backlinks détectés depuis des domaines externes",
+    "temps_chargement": "Temps de chargement de la page < 2 secondes"
+  },
+  "ancrage_identitaire": {
+    "wikidata": "Fiche d'entité Wikidata existante",
+    "sameas": "Présence de `sameAs` dans schema.org vers profils sociaux",
+    "crunchbase": "Profil Crunchbase public",
+    "linkedin": "Profil LinkedIn lié et détectable",
+    "mentions_fondateur": "Mention du fondateur ou de l'équipe sur le site"
+  },
+  "presence_corpus_llm": {
+    "article_medium": "Article Medium ou blog public mentionnant l’entreprise",
+    "presse_tech": "Article de presse tech citant l’entité (ZDNet, BDM, etc.)",
+    "wikipedia": "Page Wikipédia dédiée ou mention indirecte",
+    "github": "Référencement dans un dépôt GitHub ou documentation"
+  },
+  "outputs_llm": {
+    "mention_chatgpt": "Mention naturelle dans ChatGPT (GPT-4)",
+    "mention_perplexity": "Réponse Perplexity contenant l’entité",
+    "reconnaissance_autres_llm": "Reconnaissance par Claude, Mistral, etc.",
+    "reponse_coherente": "Réponse IA correcte et contextualisée"
+  },
+  "pertinence_locale": {
+    "adresse_complete": "Adresse postale complète présente sur le site",
+    "ville_meta_hn": "Ville ou département mentionnés dans balises Hn ou meta",
+    "profil_google_business": "Profil Google Business lié et vérifiable",
+    "balise_lang": "Présence d’une balise lang=\"fr\"",
+    "telephone_cliquable": "Numéro de téléphone cliquable au format tel:"
+  }
+}
